@@ -28,7 +28,7 @@ so I haven’t displayed the source code here. You can directly download the sou
  VS code with some c/c++ extensions
 
 
-# HIGH LEVEL REQUIREMENTS:#
+# HIGH LEVEL REQUIREMENTS: #
  ID	Description	Category
 - HLR_01	Visual Studio code Platform	software 
 - HLR_02	windows or linux OS	software
