@@ -15,6 +15,11 @@ so I haven’t displayed the source code here. You can directly download the sou
  
  # WEAKNESS #
  - the game is addictive
+ 
+ # OPPORTUNITY #
+ - it can be accesed in offline
+ # THREAT #
+ - game can be crashed due to technical error
  # 4 W'S and 1H #
  # WHO #
  anyone can play this snake game
