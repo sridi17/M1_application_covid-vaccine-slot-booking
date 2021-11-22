@@ -15,6 +15,11 @@ so I haven’t displayed the source code here. You can directly download the sou
  
  # WEAKNESS #
  - the game is addictive
+ 
+ # OPPORTUNITY #
+ - it can be accesed in offline
+ # THREAT #
+ - game can be crashed due to technical error
  # 4 W'S and 1H #
  # WHO #
  anyone can play this snake game
@@ -34,8 +39,8 @@ so I haven’t displayed the source code here. You can directly download the sou
 - HLR_02	windows or linux OS	software
 # LOW LEVEL REQUIREMENTS: #
 ID	description
-LLR_01	fun game to perform basic gaming technique
-LLR_02	fun game should set up a boundary platform in which the game is performed 
+- LLR_01	fun game to perform basic gaming technique
+- LLR_02	fun game should set up a boundary platform in which the game is performed 
 
 
 
