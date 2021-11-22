@@ -1,1 +1,1 @@
-# M1_game_snake game
+# M1_game_snake game project
