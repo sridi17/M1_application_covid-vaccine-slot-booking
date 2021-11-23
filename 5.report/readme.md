@@ -83,6 +83,14 @@ Below is the C program to build the outline boundary using draw():
 
 ![]
 
+- Input(): In this function, the programmer writes the code to take the input from the keyboard (W, A, S, D, X keys).
+
+
+
+
+
+
+
 
 
 
