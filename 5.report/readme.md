@@ -98,10 +98,18 @@ Below is the C program to build the outline boundary using draw():
 
 
 
+![]![● Untitled-1 - Visual Studio Code 23-11-2021 16_55_08 (2)](https://user-images.githubusercontent.com/94300992/143016419-899a0b46-ade9-4d62-b9ae-4514cfe9fdb0.png)
 
 
 
 
+
+
+
+
+
+- sleep(): This function in C is a function that delays the program execution for the given number of seconds. In this code sleep() is used to slow down the movement of the snake so it will be easy for the user to play.
+- main(): From the main() function the execution of the program starts. It calls all the functions.
 
 
 
