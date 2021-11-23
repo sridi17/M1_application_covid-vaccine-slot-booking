@@ -42,28 +42,40 @@ This Mini Project in C Snake Game is a simple console application without graphi
 
 
 # FUNCTIONALITIES OF SNAKE GAME #
-•	snake is represented with a 0(zero) symbol.
-•	The fruit is represented with an *(asterisk) symbol.
-•	The The snake can move in any direction according to the user with the help of the keyboard (W, A, S, D keys).
-•	When the snake eats a fruit the score will increase by 10 points.
-•	The fruit will generate automatically within the boundaries.
-•	Whenever the snake will touch the boundary the game is over.
+-	snake is represented with a 0(zero) symbol.
+-	The fruit is represented with an *(asterisk) symbol.
+-	The The snake can move in any direction according to the user with the help of the keyboard (W, A, S, D keys).
+-	When the snake eats a fruit the score will increase by 10 points.
+-	The fruit will generate automatically within the boundaries.
+-	Whenever the snake will touch the boundary the game is over.
 
 # STEPS TO CREATE SNAKE GAME #
-•	There will be four user-defined functions.
-•	Build a boundary within which the game will be played.
-•	The fruits are generated randomly.
-•	Then increase the score whenever the snake eats a fruit.
-The user-defined functions created in this program are given below:
-•	Draw(): This function creates the boundary in which the game will be played.
-•	Setup(): This function will set the position of the fruit within the boundary.
-•	Input(): This function will take the input from the keyboard.
-•	Logic(): This function will set the movement of the snake.
-Built-in functions used:
-•	kbhit(): This function in C is used to determine if a key has been pressed or not. To use this function in a program include the header file conio.h. If a key has been pressed, then it returns a non-zero value otherwise it returns zero.
-•	rand(): The rand() function is declared in stdlib.h. It returns a random integer value every time it is called.
+-	There will be four user-defined functions.
+-	Build a boundary within which the game will be played.
+-	The fruits are generated randomly.
+-	Then increase the score whenever the snake eats a fruit.
+# The user-defined functions created in this program are given below: #
+-	Draw(): This function creates the boundary in which the game will be played.
+-	Setup(): This function will set the position of the fruit within the boundary.
+-	Input(): This function will take the input from the keyboard.
+-	Logic(): This function will set the movement of the snake.
+# Built-in functions used: #
+-	kbhit(): This function in C is used to determine if a key has been pressed or not. To use this function in a program include the header file conio.h. If a key has been pressed, then it returns a non-zero value otherwise it returns zero.
+-	rand(): The rand() function is declared in stdlib.h. It returns a random integer value every time it is called.
 Header files and variables:
-•	The header files and variables used in this program are:
+-	The header files and variables used in this program are:
+
+
+![]![● #include _conio h_ • Untitled-1 - Visual Studio Code 23-11-2021 16_32_34 (2)](https://user-images.githubusercontent.com/94300992/143013342-5931b9d2-e5e2-42b9-95dc-a16fcc072a77.png)
+
+
+•	Here include the <unistd.h> header file for the sleep() function.
+Draw(): This function is responsible to build the boundary within which the game will be played.
+Below is the C program to build the outline boundary using draw():
+
+
+
+
 
 
 
