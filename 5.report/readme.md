@@ -73,7 +73,15 @@ Header files and variables:
 - Draw(): This function is responsible to build the boundary within which the game will be played.
 Below is the C program to build the outline boundary using draw():
 - setup():nThisbfunction is used to write the code to generate the fruit within the boundary using rand() function.
--	Using rand()%20 because the size of the boundary is length = 20 and width = 20 so the fruit will generate within the boundary
+- Using rand()%20 because the size of the boundary is length = 20 and width = 20 so the fruit will generate within the boundary
+ 
+ 
+ 
+ ![● #include _conio h_ • Untitled-1 - Visual Studio Code 23-11-2021 16_43_10 (2)](https://user-images.githubusercontent.com/94300992/143014734-e7f258da-bba9-4cc0-b2e0-de7ec7fbe060.png)
+
+
+
+![]
 
 
 
