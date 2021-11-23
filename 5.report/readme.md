@@ -89,6 +89,10 @@ Below is the C program to build the outline boundary using draw():
 
 
 
+![]![● #include _conio h_ • Untitled-1 - Visual Studio Code 23-11-2021 16_49_59 (2)](https://user-images.githubusercontent.com/94300992/143015572-3ce0c671-46f5-43e5-aec7-a26171725c06.png)
+
+
+- logic(): Here, write all the logic for this program like for the movement of the snake, for increasing the score, when the snake will touch the boundary the game will be over, to exit the game and the random generation of the fruit once the snake will eat the fruit.
 
 
 
