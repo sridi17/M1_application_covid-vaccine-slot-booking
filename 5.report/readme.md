@@ -157,3 +157,29 @@ Below is the C program to build the outline boundary using draw():
 
 
 ![]![DIVYA ](https://user-images.githubusercontent.com/94300992/143017509-f0a99f16-99fd-4676-a86c-c4a3a1e7dacd.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# HIGH LEVEL REQUIREMENTS:
+# ID Description Category
+
+- HLR_01 Visual Studio code Platform software
+- HLR_02 windows or linux OS software
+# LOW LEVEL REQUIREMENTS:
+# ID description
+
+- LLR_01 fun game to perform basic gaming technique
+- LLR_02 fun game should set up a boundary platform in which the game is performed
