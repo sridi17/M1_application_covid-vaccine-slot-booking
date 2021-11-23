@@ -13,4 +13,60 @@ This Mini Project in C Snake Game is a simple console application without graphi
 # 3 - Implementation All code and documentation. #
 # 4 - Test_plan Documents with test plans and procedures. #
 
+# SWOT ANALYSIS 3
+# STRENGTH #
+- it is fun type game the aim of it is snake should hunt the food
+- it helps the player to relieve stress.
+- the game helps to improve concentrating skills.
+# WEAKNESS #
+- the game is addictive
+# OPPORTUNITY #
+- it can be accesed in offline
+# THREAT #
+- game can be crashed due to technical error
+# 4 W'S and 1H #
+# WHO #
+- anyone can play this snake game
+
+# WHAT #
+- it is a game played by single player
+
+# WHEN #
+- whenever the player wants to play to increase their fun.
+
+# HOW #
+- this project is implemented by using loops,function call and other functionalities of c.
+
+# TOOLS #
+- VS code with some c/c++ extensions
+
+
+# FUNCTIONALITIES OF SNAKE GAME #
+•	snake is represented with a 0(zero) symbol.
+•	The fruit is represented with an *(asterisk) symbol.
+•	The The snake can move in any direction according to the user with the help of the keyboard (W, A, S, D keys).
+•	When the snake eats a fruit the score will increase by 10 points.
+•	The fruit will generate automatically within the boundaries.
+•	Whenever the snake will touch the boundary the game is over.
+
+# STEPS TO CREATE SNAKE GAME #
+•	There will be four user-defined functions.
+•	Build a boundary within which the game will be played.
+•	The fruits are generated randomly.
+•	Then increase the score whenever the snake eats a fruit.
+The user-defined functions created in this program are given below:
+•	Draw(): This function creates the boundary in which the game will be played.
+•	Setup(): This function will set the position of the fruit within the boundary.
+•	Input(): This function will take the input from the keyboard.
+•	Logic(): This function will set the movement of the snake.
+Built-in functions used:
+•	kbhit(): This function in C is used to determine if a key has been pressed or not. To use this function in a program include the header file conio.h. If a key has been pressed, then it returns a non-zero value otherwise it returns zero.
+•	rand(): The rand() function is declared in stdlib.h. It returns a random integer value every time it is called.
+Header files and variables:
+•	The header files and variables used in this program are:
+
+
+
+
+
 
