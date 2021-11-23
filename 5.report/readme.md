@@ -115,3 +115,45 @@ Below is the C program to build the outline boundary using draw():
 
 
 ![]![● Untitled-1 - Visual Studio Code 23-11-2021 17_00_51 (2)](https://user-images.githubusercontent.com/94300992/143017046-b7f62195-8d40-4971-b681-7c2cd8eabba5.png)
+
+
+
+
+
+
+
+# DESIGN #
+# BEHAVIOUR DIAGRAM
+# STRUCTURAL DIAGRAM
+
+
+![]![BEHAVIOUR FLOW](https://user-images.githubusercontent.com/94300992/143017435-89db5cf9-8825-432c-a5e2-9dd5a95e8b44.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![]![DIVYA ](https://user-images.githubusercontent.com/94300992/143017509-f0a99f16-99fd-4676-a86c-c4a3a1e7dacd.png)
