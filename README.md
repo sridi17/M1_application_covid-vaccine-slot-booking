@@ -1,3 +1,6 @@
+[![static code cppcheck](https://github.com/sridi17/M1_game_snake-game-project/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/sridi17/M1_game_snake-game-project/actions/workflows/cppcheck.yml)
+
+
 # M1_game_snake game project
 
 
