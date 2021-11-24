@@ -1,6 +1,6 @@
 [![static code cppcheck](https://github.com/sridi17/M1_game_snake-game-project/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/sridi17/M1_game_snake-game-project/actions/workflows/cppcheck.yml)
 [![Unit testing](https://github.com/sridi17/M1_game_snake-game-project/actions/workflows/unit-test.yml/badge.svg)](https://github.com/sridi17/M1_game_snake-game-project/actions/workflows/unit-test.yml)
-
+[![Valgrind](https://github.com/sridi17/M1_game_snake-game-project/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/sridi17/M1_game_snake-game-project/actions/workflows/Valgrind.yml)
 
 
 # M1_game_snake game project
