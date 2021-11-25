@@ -13,6 +13,7 @@ This Mini Project in C Snake Game is a simple console application without graphi
 # 3 - Implementation All code and documentation. #
 # 4 - Test_plan Documents with test plans and procedures. #
 
+
 # SWOT ANALYSIS 3
 # STRENGTH #
 - it is fun type game the aim of it is snake should hunt the food
